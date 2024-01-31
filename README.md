@@ -1,4 +1,4 @@
-    # Dermatica
+# Dermatica
 
 
 Dermatica is a web application designed for the accurate identification of dermatological diseases. Utilizing an advanced deep learning model, Dermatica excels in classifying skin conditions across 23 different classes. Whether you're a healthcare professional or an individual concerned about skin health, Dermatica provides an intuitive and efficient platform for obtaining insights into various skin abnormalities. It is particularly useful for preliminary diagnosis.
