@@ -82,4 +82,4 @@ The underlying architecture utilizes ResNet50, a powerful deep learning model kn
 
 **Dataset Link**: [Dermnet - Kaggle](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
   
-**To download Model and Encoder**: [Drive]():
+**To download Model and Encoder**: [Drive](https://drive.google.com/drive/folders/17_UktMI1WyIndaLhe_gZJ32k0ZaAFqVn?usp=sharing):
