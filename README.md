@@ -80,5 +80,6 @@ The underlying architecture utilizes ResNet50, a powerful deep learning model kn
 
 - The ResNet model used in this app was trained on a dataset to enable accurate identification of various skin conditions.
 
-    **Dataset Link**: [Dermnet - Kaggle](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
-    **Download Model and tokenizers**: [Drive]():
+**Dataset Link**: [Dermnet - Kaggle](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
+  
+**To download Model and Encoder**: [Drive]():
