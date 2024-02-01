@@ -52,6 +52,10 @@ Explore the comprehensive list of skin condition classes that Dermatica can accu
     ```
 
 4. Open your web browser and navigate to the provided URL.
+   
+    ```
+   localhost:5000
+    ```
 
 5. Upload an image of a skin condition to get predictions.
 
@@ -77,3 +81,4 @@ The underlying architecture utilizes ResNet50, a powerful deep learning model kn
 - The ResNet model used in this app was trained on a dataset to enable accurate identification of various skin conditions.
 
     **Dataset Link**: [Dermnet - Kaggle](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
+    **Download Model and tokenizers**: [Drive]():
