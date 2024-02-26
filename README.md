@@ -42,7 +42,7 @@ Explore the comprehensive list of skin condition classes that Dermatica can accu
 2. Install the required dependencies:
 
     ```bash
-    pip install -r Requirements.txt
+    pip install -r Requirement.txt
     ```
 
 3. Run the app:
